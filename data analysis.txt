@@ -1,0 +1,9 @@
+# Exploratory Data Analysis
+print(data.head())
+print(data.info())
+print(data.describe())
+
+# Visualize class distribution
+sns.countplot(x='Class', data=data)
+plt.title('Distribution of Fraudulent vs Legitimate Transactions')
+plt.show()
