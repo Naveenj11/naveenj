@@ -16,7 +16,7 @@ This project implements a machine learning model to detect fraudulent credit car
 
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `imbalanced-learn`
-- Jupyter Notebook for exploratory data analysis
+- colab Notebook for exploratory data analysis
 
 ## Dataset
 
