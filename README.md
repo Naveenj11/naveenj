@@ -27,5 +27,5 @@ The dataset used for this project is available on [Kaggle](https://www.kaggle.co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/naveenj11/credit-card-fraud-detection.git
+   git clone https://github.com/Naveenj11/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
